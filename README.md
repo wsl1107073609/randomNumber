@@ -1,2 +1,4 @@
 # randomNumber
-generate some numbers by random() and print them
+1.定义成字符串<br>
+2.定义成数组，不考虑重复问题<br>
+3.定义成数组，考虑重复问题<br>
